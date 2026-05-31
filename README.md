@@ -1,4 +1,4 @@
-# 🚀 RDP-POWER Enhanced - Free 30-Day Runner
+# 🚀 RDP-POWER SUPER - Free 6 hour Runner
 
 > **Advanced GitHub Actions automation for RDP + Tailscale + RustDesk with FREE cycles-based 30-day continuous operation**
 
